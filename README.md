@@ -15,6 +15,9 @@ Ausführen in Google Colab ebenfalls möglich & performatnter:
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
+<a target="_blank" href="https://colab.research.google.com/github/MichaelFranLu/Pruefungsaufgabe_2_MNIST_Dataset?tab=readme-ov-file">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
 
 ## Einleitung
 In dieser Lektion erstellen wir ein **Multi Layer Perceptron Modell** mit dem Ziel, handgeschriebene Zahlen zu klassifizieren. Dies ist ein sehr verbreitetes Einsteigerproblem für **Tensorflow**. Der Code implementiert eine Anwendung zur Verarbeitung von MNIST-Daten und zur Erstellung dieses maschinellen Lernmodells. Es ist wichtig zu beachten, dass eine einzige Lektion niemals ausreichen wird, um **Deep Learning** und/oder **Tensorflow** in seiner Komplexität abzudecken.
